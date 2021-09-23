@@ -1,0 +1,1 @@
+Repositório com backend em NestJs, seguindo aulas da imersão full-cycle disponibilizado pela School of Net.
